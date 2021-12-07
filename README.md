@@ -1,2 +1,2 @@
-# system-status-template
-A template to create system status
+# System status checkerboard 
+A template to create system status 
